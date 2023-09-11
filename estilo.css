@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+    height: 2rem;
+    background-color: aliceblue;
+    box-shadow: 0px 2px 10px black;
+    width: 100%;
+    padding-left: 1rem;
+    position: fixed;
+}
+
+a {
+    text-decoration: none;
+}
+
+#UM{
+    background-color: rgb(240, 172, 150);
+}
+#DOIS{
+    background-color: darkseagreen;
+}
+#TRES{
+    background-color: rgb(230, 187, 80);
+}
+#QUATRO{
+    background-color: mediumpurple;
+}
+#CINCO{
+    background-color: palevioletred;
+}
+#SEIS{
+    background-color: lightskyblue;
+}
+section {
+    min-width: 100vh;
+    padding-top: 3rem;
+    padding-left: 1rem;
+}
